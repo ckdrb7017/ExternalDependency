@@ -1,0 +1,3 @@
+rootProject.name='ExternalDependency'
+include ':app'
+include ':mylibrary'
