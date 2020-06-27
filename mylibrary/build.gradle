@@ -8,7 +8,7 @@ publish {
     publishVersion = '1.0.0'
     repoName  = 'test'
     desc = 'my library description'
-    website = 'https://github.com/ckdrb7017/build_dependency'
+    website = 'https://github.com/ckdrb7017/ExternalDependency'
 }
 
 buildscript {
